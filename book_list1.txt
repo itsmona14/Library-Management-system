@@ -1,0 +1,33 @@
+1622|The vanishing half|Brit Bennett|Riverhead books|Fiction books|2020|969|11
+1679|Shuggie bain|Douglas stuart|Grove Press (US)|Fiction books|2020|919|17
+1694|The mirror & light|Hilary mantel|4th Estate (UK)|Fiction books|2020|839|14
+1671|A childern’s bible|Lydia millet|W.W.Norton&Company|Fiction books|2020|899|17
+1633|Homeland elegies|Ayad alchtar|Little,Brown&Company|Fiction books|2020|775|11
+1649|I hold a wolf|Laura van de berg|Altantic Publisher|Fiction books|2020|719|7
+1609|Deacon king kong|James McBride|Kristy dunseath|Fiction books|2020|1099|4
+2136|Guns,Germs&Steel|Jared diamond|W.W.Norton|Historical books|1997|749|11
+2174|The pillars of the earth|Ken Follett|Macmillan Publisher|Historical books|1989|659|10
+2196|War and Peace|Leo tolstoy|The Russian messenger|Historical books|1867|689|7
+2177|Wolf Hall|Hilary Mantel|Harper Collins|Historical books|2009|1199|3
+3964|Maus|Spiegelman|Panthenon books|Comics|1980|199|19
+3965|Batman:The killing joke|Alan Moore|DC comics|Comics|1988|175|21
+3945|Saga|Brain K.Vaughan|Nation Press|Comics|2012|160|27
+3912|Mister miracke|Tom king|DC comics|Comics|1971|190|23
+3945|Ghost world|Daniel clowes|Fantagraphics books|Comics|1995|140|11
+3966|Blankets|Craigthompson|Top-shelf production|Comics|2003|129|29
+4712|Jane eyre|Charlotte Bronte|Smith,elder&Co|Novel|1847|969|6
+4717|Nineteen eighty-four|George orwell|Harvill secker|Novel|1949|874|11
+4769|The catcher in the rye|J.D.Salinger|Little,brown&Company|Novel|1951|569|17
+4795|Beloved|Toi Morrison|Alfred A.knopp|Novel|1987|673|8
+4794|Invisible man|Ralph Ellison|Pengin random house LLC.|Novel|1952|755|10
+5312|The lord of the rings|J.R.R.Tolkien|Allen&Unwin|Fantasy|1954|799|10
+5321|Kaze No Namae|Patrick Rothurfurs|DAW books hardcover|Fantasy|2007|875|9
+5369|A game of throne|George R.R.Martin|Harperlollons|Fantasy|1996|999|12
+5378|The way of kings|Brandon Sanderson|Tor Books|Fantasy|2010|679|3
+5387|The eye of the world|Robert Jordan|The wheel of time|Fantasy|1990|789|9
+5301|Prince of thorns|Mark lawrence|Harper voyages|Fantasy|2011|1199|6
+6954|Intro to algorithms|Thomas.H.Cormen|MIT Press|Computer science|1989|495|6
+6914|Code complete|Steve MC connell|Microsoft Press|Computer science|1993|279|11
+6911|Javascript:The good part|Douglas crockford|O’Reilly Media|Computer science|2008|385|6
+6903|Algorithms Robert|Sedge wick|Robert|Computer science|1983|319|9
+6909|Let us C|Yashavant kanet kar|BPB Publications|Computer science|2002|199|17
